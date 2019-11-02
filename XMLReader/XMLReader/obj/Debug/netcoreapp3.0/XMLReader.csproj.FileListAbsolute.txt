@@ -1,0 +1,11 @@
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\bin\Debug\netcoreapp3.0\XMLReader.exe
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\bin\Debug\netcoreapp3.0\XMLReader.deps.json
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\bin\Debug\netcoreapp3.0\XMLReader.runtimeconfig.json
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\bin\Debug\netcoreapp3.0\XMLReader.runtimeconfig.dev.json
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\bin\Debug\netcoreapp3.0\XMLReader.dll
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\bin\Debug\netcoreapp3.0\XMLReader.pdb
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\obj\Debug\netcoreapp3.0\XMLReader.csprojAssemblyReference.cache
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\obj\Debug\netcoreapp3.0\XMLReader.AssemblyInfoInputs.cache
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\obj\Debug\netcoreapp3.0\XMLReader.AssemblyInfo.cs
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\obj\Debug\netcoreapp3.0\XMLReader.dll
+C:\Users\slatt\c#workspace\XMLReader\XMLReader\obj\Debug\netcoreapp3.0\XMLReader.pdb
