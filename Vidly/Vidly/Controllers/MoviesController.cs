@@ -17,7 +17,7 @@ namespace Vidly.Controllers
                 Name = "Shrek!"
             };
 
-            //return View(movie);
+            return View(movie);
             //return Content("Hello World!");
             //return HttpNotFound();
             //return RedirectToAction("Index", "Home", new { page = 1, sortBy = "name"});
